@@ -38,7 +38,7 @@ ecdsa==0.11
 extensions==0.4
 facepy==0.8.4
 gunicorn==18.0
-httplib2==0.8
+httplib2==0.18.0
 jsonfield==0.9.20
 logilab-common==0.62.0
 mandrill==1.0.53
